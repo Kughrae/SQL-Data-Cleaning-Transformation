@@ -131,3 +131,6 @@ After completing the cleaning process, I was able to transform the raw layoffs d
 The process removed duplicate records, standardized inconsistent values, filled missing industry information where possible, converted data into appropriate formats, and removed records without sufficient layoff information.
 
 The cleaned dataset is now better prepared for further exploratory analysis and other data analytics work.
+
+## Project Author
+Carrey Nadine S. Magante
